@@ -32,6 +32,14 @@ body {
     list-style: none;
 }
 
+.site-nav-item {
+
+}
+
+.site-nav-item .site-nav.current {
+    color: #2196F3;
+}
+
 .site-nav {
     font-weight: 500;
     font-size: 14px;
